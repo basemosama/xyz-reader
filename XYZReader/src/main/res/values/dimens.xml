@@ -1,0 +1,19 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="side_margin">10dp</dimen>
+    <dimen name="key_line">20dp</dimen>
+    <dimen name="article_detail_image_height">300dp</dimen>
+    <dimen name="list_image_height">100dp</dimen>
+    <dimen name="list_text_padding">16dp</dimen>
+    <dimen name="app_bar_height">56dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="app_bar_elevation">4dp</dimen>
+    <dimen name="list_item_elevation">4dp</dimen>
+
+</resources>
